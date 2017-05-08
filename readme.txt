@@ -1,3 +1,7 @@
+华为软件精英挑战赛2017
+
+
+
 1.Overall Introduction
 (1) Use the script for compilation and packing. If the compilation fails, solve this problem by yourself.
 (2) If the compilation succeeds, the executable binary file cdn will be generated in the bin/ directory.
